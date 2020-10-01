@@ -5,6 +5,7 @@ A Ruby library for carefully refactoring critical paths. [![Build Status](https:
 ## How do I science?
 
 Let's pretend you're changing the way you handle permissions in a large web app. Tests can help guide your refactoring, but you really want to compare the current and refactored behaviors under load.
+why pretend i dont wanna pretend.
 
 ```ruby
 require "scientist"
